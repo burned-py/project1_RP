@@ -25,7 +25,7 @@ public class string_method {
         }
     }
 
-    //caller
+    //caller --> geht noch nicht (Screenshot)
     public static boolean bothTrue(String s) {
         return lengthTest(s) && enthalt(s);
     }
